@@ -6,7 +6,7 @@
 
 Bounty: https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3
 
-> I told my AI assistant to be more human, so now it sighs, says 'per my last email,' and blames the Wi-Fi like the rest of us.
+> I told my AI assistant to act more human, so now it sighs, says 'per my last email,' and blames the Wi-Fi like the rest of us.
 
 ## Run
 
